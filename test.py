@@ -5,3 +5,9 @@ def add(a,b):
 def mult(x,y):
   c = x*y
   print(c)
+
+
+def divide(a,b):
+  if b!= 0 :
+    c = a/b
+    print(c)
